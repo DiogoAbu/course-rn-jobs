@@ -1,0 +1,6 @@
+{
+  "extends": "serus",
+  "rules": {
+    "consistent-return": 0
+  }
+}

@@ -1,0 +1,12 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAIL = 'LOGIN_FAIL'
+
+export const JOBS_REQUEST = 'JOBS_REQUEST'
+export const JOBS_SUCCESS = 'JOBS_SUCCESS'
+export const JOBS_FAIL = 'JOBS_FAIL'
+export const JOBS_RESET = 'JOBS_RESET'
+
+export const LIKE_JOB = 'LIKE_JOB'
+export const CLEAR_LIKED_JOBS = 'CLEAR_LIKED_JOBS'
+export const REMOVE_DISLIKED_JOBS = 'REMOVE_DISLIKED_JOBS'
